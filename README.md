@@ -6,15 +6,15 @@ I'm a student, programmer, and fitness enthusiast. I love creating software, dev
 
 ## 📈 GitHub Stats
 
-![spaceKumpel's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceKumpel&hide=contribs,prs&theme=dark&text_color=purple)
+![spaceKumpel's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceKumpel&hide=contribs,prs&theme=dark)
 
 ## 📊 WakaTime Activity
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spaceKumpel&theme=dark&text_color=purple)](https://wakatime.com/@spaceKumpel)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spaceKumpel&theme=dark)](https://wakatime.com/@spaceKumpel)
 
 ## 🌍 Favorite Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceKumpel&layout=compact&theme=dark&text_color=purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceKumpel&layout=compact&theme=dark)
 
 ## 📫 Contact
 
@@ -24,6 +24,7 @@ I'm a student, programmer, and fitness enthusiast. I love creating software, dev
 ## 🎨 Colors
 
 - Black and purple are my favorite colors! 🖤💜
+
 
 <!--
 **spaceKumpel/spaceKumpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
