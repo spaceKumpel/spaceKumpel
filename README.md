@@ -18,7 +18,6 @@ I'm a student, programmer, and fitness enthusiast. I love creating software, dev
 
 ## 📫 Contact
 
-- Email: example@example.com
 - LinkedIn: [spaceKumpel](https://www.linkedin.com/in/spaceKumpel)
 
 ## 🎨 Colors
