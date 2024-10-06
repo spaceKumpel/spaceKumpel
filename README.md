@@ -21,11 +21,6 @@ I'm a student, programmer, and fitness enthusiast. I love creating software, dev
 - LinkedIn: [spaceKumpel](https://www.linkedin.com/in/spaceKumpel)
 - Twitter: [@spaceKumpel](https://twitter.com/spaceKumpel)
 
-## 🎨 Colors
-
-- Black and purple are my favorite colors! 🖤💜
-
-
 <!--
 **spaceKumpel/spaceKumpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
