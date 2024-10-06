@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm a student, programmer, and fitness enthusiast. I love creating software, developing my skills in various programming languages, and sharing my projects on GitHub. In my free time, I hit the gym to stay fit 💪. I adore cats 🐱 
+I'm a student, programmer. I love creating software, developing my skills in various programming languages, and sharing my projects on GitHub. In my free time, I hit the gym to stay fit 💪.
 
 ## 📈 GitHub Stats
 
